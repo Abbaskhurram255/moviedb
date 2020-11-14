@@ -1,6 +1,6 @@
 # Movie Database
 
-## **<a href="https://doums10.github.io/moviedb/" target="_blank">Click here to demo</a>**
+## **<a href="https://abbaskhurram255.github.io/moviedb/" target="_blank">Click here to see demo</a>**
 
 > A robustly featured and continuously developed React application, utilizing The Movie Database API to display movie data.
 
@@ -31,11 +31,11 @@ View detailed movie information like runtimes, ratings, genre, year
 
 > Reach out to me at:
 
-- m27sylla@gmail.com
+- abbaskhurram255@gmail.com
 
 > My portfolio:
 
-- <a href="https://oxydev.fr/portfolio" target="_blank">oxydev.fr/portfolio</a>
+- <a href="https://abbaskhurram255.github.io/" target="_blank">https://abbaskhurram255.github.io/</a>
 
 ---
 
